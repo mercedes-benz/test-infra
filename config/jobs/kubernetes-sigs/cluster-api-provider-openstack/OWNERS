@@ -1,20 +1,28 @@
 # See the OWNERS docs at https://go.k8s.io/owners
 
 reviewers:
-- flaper87
 - Lion-Wei
 - chaosaffe
-- m1093782566
+- chrischdi
 - dims
-- sbueringer
-- jichenjc
+- flaper87
 - hidekazuna
+- jichenjc
+- m1093782566
+- mdbooth
+- sbueringer
+- seanschneeweiss
+- tobiasgiese
 approvers:
-- flaper87
 - Lion-Wei
 - chaosaffe
-- m1093782566
+- chrischdi
 - dims
-- sbueringer
-- jichenjc
+- flaper87
 - hidekazuna
+- jichenjc
+- m1093782566
+- mdbooth
+- sbueringer
+- seanschneeweiss
+- tobiasgiese
